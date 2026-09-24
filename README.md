@@ -57,5 +57,4 @@ A sleek, responsive, and interactive personal portfolio website engineered with 
 
 **Muhammad Mudassir**  
 *Full Stack Software Engineer*  
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
